@@ -1,9 +1,5 @@
 ## Hello SWOT friends 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
 🙋‍♀️ Introduction 
 ---------------
 This is a space for SWOT community to share ideas, experience, code and discussions. 
@@ -20,5 +16,3 @@ Please contribute. Add new ideas through issues or discussions, add new code by 
 Community projects
 ================
 **Ocean Data Challenge** [https://github.com/ocean-data-challenges]
-
--->
