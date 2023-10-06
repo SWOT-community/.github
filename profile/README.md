@@ -1,12 +1,15 @@
 ## Hello SWOT friends 👋
 
+<img src="https://swot.jpl.nasa.gov/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcXdMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--28bd8a99460865acbcf8d7571b3b4eca31a6f928/pia25772_left_slider_swot_image.jpg?disposition=attachment" width="200">
+
 🙋‍♀️ Introduction 
 ---------------
 This is a space for SWOT community to share ideas, experience, code and discussions. 
 
 🌈 Contribution guidelines 
 --------------------------
-Please contribute. Add new ideas through issues or discussions, add new code by pulling etc.  
+Please contribute. Add new ideas through issues or discussi
+ons, add new code by pulling etc.  
 
 👩‍💻 Useful resources 
 --------------------
