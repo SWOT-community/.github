@@ -18,5 +18,5 @@ ons, add new code by pulling etc.
 
 Community projects
 ================
-**Ocean Data Challenge** [https://github.com/ocean-data-challenges]
-**SWOT Swell** [https://github.com/ardhuin/swellSWOT/]
+* **Ocean Data Challenge** [https://github.com/ocean-data-challenges]
+* **SWOT Swell** [https://github.com/ardhuin/swellSWOT/]
