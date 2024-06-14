@@ -13,8 +13,12 @@ ons, add new code by pulling etc.
 
 👩‍💻 Useful resources 
 --------------------
-1. The mission page: https://swot.jpl.nasa.gov
-1. Data centers at AVISO (https://www.aviso.altimetry.fr/en/missions/current-missions/swot.html) and JPL (https://swot.podaac.jpl.nasa.gov).
+1. The mission pages: https://swot.jpl.nasa.gov and https://swot.cnes.fr
+2. Data centers at
+* [CNES/AVISO](https://www.aviso.altimetry.fr/en/missions/current-missions/swot.html)
+* [JPL/PODAAC](https://swot.podaac.jpl.nasa.gov)
+* [CNES/hydroweb.next](https://hydroweb.next.theia-land.fr)
+3. Tutorials gallery: https://swot-community.github.io/SWOT-galleries/ 
 
 Community projects
 ================
